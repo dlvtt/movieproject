@@ -1,4 +1,5 @@
 # MovieProject
+* Веб приложение для поиска информацией о фильмах, и актерах.
 
 ## Team :
 * Дьяченко Кирилл(*[KirillDyachenco](https://github.com/KirillDyachenco)*) - проект менеджер, дизайнер
