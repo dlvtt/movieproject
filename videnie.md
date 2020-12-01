@@ -15,4 +15,5 @@
 ## Конкуренты 
 * https://www.kinopoisk.ru/
 * https://www.kino-teatr.ru/
+* https://www.rottentomatoes.com/
 
